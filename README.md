@@ -1,2 +1,4 @@
-HERE Ridge,RidgeCv, Lasso, LassoCV and ElasticNet, ElasticNetCV model was used to predict FWI in alberian forest fire.
-datastet: https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
+Model used: 1. Ridge and RidgeCv, 
+            2. Lasso, LassoCV 
+            3. ElasticNet, ElasticNetCV 
+Raw datastet: https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
